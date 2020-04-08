@@ -1,4 +1,4 @@
-TOKEN = os.environ.get("BOT_KEY")
+TOKEN = "Njk3MTEzNzU4MTQ0NzkwNjIw.Xoyj2A.lmh0gmpg1BfZzZTRuthG8BF1Myk"
 
 POST_ID = 697127704675352636
 
